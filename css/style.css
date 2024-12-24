@@ -4,6 +4,8 @@ body{
     font-size: 16px;
     color: #b7b7b7;
     font-weight: 300;
+    width: 1200px;
+    margin: 0 auto;
 }
 
 a{
